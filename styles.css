@@ -44,4 +44,9 @@ body {
     height: 2.25em;
     font-size: 24px;
   }
+
+  .remove-button:hover {
+    cursor: pointer;
+    opacity: 0.7;
+  }
   
